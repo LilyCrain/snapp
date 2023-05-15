@@ -1,0 +1,4 @@
+io.instantiatePrintIRL();
+string toPrint = io.input("Enter a string to print: ");
+io.printIRL(toPrint);
+io.lastLine();
